@@ -1,1 +1,1 @@
-clock: py clock.py
+clock: python clock.py
